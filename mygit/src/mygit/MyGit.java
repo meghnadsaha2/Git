@@ -8,8 +8,9 @@ public class MyGit {
 		//Pull 11:20 AM from New
 		
 		//Pull 11:34 AM from New
+		//Owner to user
+
 		
-		//Push 11:52 AM from New 
 
 	}
 }
