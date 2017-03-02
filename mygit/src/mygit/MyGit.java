@@ -3,16 +3,7 @@ package mygit;
 public class MyGit {
 
 	public static void main(String args[]) {
-		System.out.println("Hello");
-		System.out.println("-------------------------");
-		//Pull 11:20 AM from New
-		
-		//Pull 11:34 AM from New
-		//Owner to user
-		
-		//From user
-
-		
+		System.out.println("Step own from Owner");	
 
 	}
 }
